@@ -91,11 +91,11 @@ The main code is on *Arduino_Watering_system.ino*
 
 
 ## Credits
--Ricardo Silva Moreira
--Contact: silvaricardo1997@gmail.com
--Date: 23/07/2019
--Place: Brazil, Brasília
--Version: 19.07.23.Pre-alpha
+ - Ricardo Silva Moreira 
+ - Contact: silvaricardo1997@gmail.com 
+ - Date: 23/07/2019 
+ - Place: Brazil, Brasília 
+ - Version: 19.07.23.Pre-alpha
 
 
 
