@@ -1,8 +1,8 @@
 # Arduino Watering System
 Low-cost irrigation automation project with real-time analysis of environmental conditions
 
-**Objectives:** Watering System - Irrigation and Monitoring Water Level
-**Behavior:** When the soil is dry and water level is low
+- **Objectives:** Watering System - Irrigation and Monitoring Water Level 
+- **Behavior:** When the soil is dry and water level is low
 
 ## Files
 
